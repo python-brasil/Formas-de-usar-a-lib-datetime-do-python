@@ -12,7 +12,7 @@ Aqui estão algumas das principais funcionalidades da biblioteca datetime:
 
 - **Suporte a Fuso Horário e Consciência de Tempo:** O módulo datetime inclui funcionalidades para lidar com fuso horário e consciência de tempo, permitindo que você trabalhe com datas e horários em diferentes fusos horários e faça ajustes devido ao horário de verão, por exemplo.
 
-- ** Obter Informações sobre o Tempo Atual:** Você pode usar a função datetime.now() para obter o objeto datetime representando o momento atual, levando em consideração o fuso horário local.
+- **Obter Informações sobre o Tempo Atual:** Você pode usar a função datetime.now() para obter o objeto datetime representando o momento atual, levando em consideração o fuso horário local.
 
 - **Suporte a Calendários:** A biblioteca datetime também fornece algumas funcionalidades básicas para lidar com calendários, como determinar o dia da semana de uma determinada data ou encontrar o número de dias em um mês específico.
 
